@@ -1,13 +1,36 @@
-p {
 
- background-color: #e9967a;
- color: black;
+
+.first-class {
+    color: black;
+    background-color: #E9967A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+
+}
+   
+#large-blue {
+    color: rgb(45, 45, 170);
+    background-color: azure;
+    font-size: 36px;
+
 }
 
-.no3 {
+.standard-large {
+    color: black;
+    background-color: #E9967A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+
+}
+
+#single-green {
+    color: black;
+    background-color: #90EE90;
+    font-weight: 900;
     font-size: 24px;
 }
 
-
-
-
+.final-class {
+    color: black;
+    background-color: #E9967A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}

@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+
+}
+
+.black.box {
+    color: azure;
+    background-color: black;
+
+}
+.yellow.box {
+    color: black;
+    background-color: yellow;
+
+}
